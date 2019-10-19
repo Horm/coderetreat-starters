@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ajalt:mordant:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt/mordant/1.2.0/859131c068e814864ef5d6581158342b3ec407bf/mordant-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt/mordant/1.2.0/75af68509a7b1b599e8cf128e16d4ceed32e4881/mordant-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
