@@ -1,0 +1,17 @@
+{
+  "name": "coderetreat-js",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^24.5.0"
+  },
+  "description": "JS starter for coderetreat",
+  "author": "horm",
+  "license": "MIT"
+}
