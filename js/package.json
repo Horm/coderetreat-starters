@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
-    "jest": "^24.5.0"
+    "jest": "^24.9.0"
   },
   "description": "JS starter for coderetreat",
   "author": "horm",
