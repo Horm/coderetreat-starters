@@ -12,3 +12,7 @@ yarn test:watch
 ## Kotlin
 
 Install IntelliJ IDEA and synchronize `build.gradle` file. Select and run configuration `Tests`. You can enable auto test run... 
+
+## Game of Life
+
+Check `rules.pdf` to know the rules before the event...
